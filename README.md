@@ -1,4 +1,4 @@
-# Domain Model for a School
+Hi, J# Domain Model for a School
 
 ## Objectives
 
